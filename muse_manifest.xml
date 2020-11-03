@@ -1,0 +1,238 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="millysbandb.co.uk" resolutions="1x" timestamp="1604430439877">
+  <folder name="css">
+    <file name="site_global.css" crc="3915353632"/>
+    <file name="master_restaurant.css" crc="4218566765" ref="cafe"/>
+    <file name="master_b-b.css" crc="137457019" ref="accommodation:what-s-on:index:thank-you:enquiries:about-us:location"/>
+    <file name="accommodation.css" crc="296073062" ref="accommodation"/>
+    <file name="what-s-on.css" crc="512181479" ref="what-s-on"/>
+    <file name="cafe.css" crc="62453128" ref="cafe"/>
+    <file name="iefonts_cafe.css" crc="98615188" ref="cafe"/>
+    <file name="index.css" crc="434368660" ref="index"/>
+    <file name="thank-you.css" crc="3979439890" ref="thank-you"/>
+    <file name="enquiries.css" crc="29367093" ref="enquiries"/>
+    <file name="about-us.css" crc="4027254339" ref="about-us"/>
+    <file name="location.css" crc="8303969" ref="location"/>
+  </folder>
+  <folder name="assets">
+    <file name="breakfast2.pdf" crc="4101546733" seo="true" mt="1490796818000"/>
+    <file name="tapas2.pdf" crc="3977297845" seo="true" mt="1490797887000"/>
+    <file name="brunch---tapas.jpg" crc="4034682738" seo="true" mt="1551894364000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="museutils.js" crc="3939489907" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="whatinput.js" crc="86476730" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:accommodation:cafe"/>
+    <file name="webpro.js" crc="3856315280" ref="index:enquiries"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="require.js" crc="4177726516" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="form_check.php" crc="4108222811" ref="enquiries"/>
+    <file name="form_throttle.php" crc="503802655" ref="enquiries"/>
+    <file name="form_process.php" crc="260214869" ref="enquiries"/>
+    <file name="form-u595.php" crc="212813184" ref="enquiries"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 317x84.png" crc="16654590" seo="true" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="accommodation" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="enquiries" alt=""/>
+      <caption webpage="cafe" alt=""/>
+      <caption webpage="what-s-on" alt=""/>
+    </file>
+    <file name="u623-4.png" crc="304602676" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="blank.gif" crc="4208392903" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you:cafe"/>
+    <file name="u682_states.png" crc="56826341" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u682_states-r.png" crc="4072559887" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u122.png" crc="211731522" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u122-r.png" crc="188143288" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u122-a.png" crc="535959296" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u132.png" crc="78476505" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u132-r.png" crc="4072232656" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u132-a.png" crc="440124627" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u136.png" crc="4008133581" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u136-r.png" crc="192422880" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u136-a.png" crc="3980086447" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u145.png" crc="419554936" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u145-r.png" crc="275824610" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u145-a.png" crc="208008288" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u2177.png" crc="3871648697" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u2177-r.png" crc="4134648678" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u2177-a.png" crc="184377546" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u150.png" crc="212312875" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u150-r.png" crc="4114749240" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u150-a.png" crc="3883033442" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u166.png" crc="3915377920" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u166-r.png" crc="4015947663" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u166-a.png" crc="4186176962" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u197-6.png" crc="533716857" ref="index"/>
+    <file name="u220-6.png" crc="4140075051" ref="index"/>
+    <file name="images.jpg" crc="248518560" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (1).jpg" crc="3871305608" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image millys.jpg" crc="458683969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="millys 3-crop-u1476.jpg" crc="224387978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polperro port 2.jpg" crc="4143309092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polperro port 3.jpg" crc="425410755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polperro port.jpg" crc="3849436003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u300-6.png" crc="3801597456" ref="index"/>
+    <file name="u704_states.png" crc="381491858" ref="index"/>
+    <file name="u704_states-r.png" crc="161290464" ref="index"/>
+    <file name="u347.png" crc="3926894304" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u347-r.png" crc="3874665022" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u347-a.png" crc="4195913114" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u320.png" crc="314368892" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u320-r.png" crc="3814144723" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u320-a.png" crc="345651334" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u357.png" crc="4126358369" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u357-r.png" crc="4104982313" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u357-a.png" crc="4191422471" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u341.png" crc="425768827" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u341-r.png" crc="3940248612" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u341-a.png" crc="3820293844" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u2156.png" crc="260348681" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u2156-r.png" crc="3935937115" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u2156-a.png" crc="376666665" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u336.png" crc="46394761" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u336-r.png" crc="4005493205" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u336-a.png" crc="458359084" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u313.png" crc="3843102278" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u313-r.png" crc="4002054943" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="u313-a.png" crc="4163427265" ref="index:accommodation:about-us:location:what-s-on:enquiries:thank-you"/>
+    <file name="twitter43.png" crc="4029328930" ref="index:cafe">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="twitter43-rollover.png" crc="64393095" ref="index:cafe">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="facebook52-forma 1.png" crc="447723266" ref="index:cafe">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="facebook52-rollover.png" crc="459429157" ref="index:cafe">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="instagram15-forma 1.png" crc="497204365" ref="index:cafe">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="instagram15-rollover.png" crc="90556366" ref="index:cafe">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="u458-4.png" crc="4059317046" ref="accommodation"/>
+    <file name="img_2401.jpg" crc="3849482623" ref="accommodation">
+      <caption webpage="accommodation" alt=""/>
+    </file>
+    <file name="img_2577.jpg" crc="214963210" ref="accommodation">
+      <caption webpage="accommodation" alt=""/>
+    </file>
+    <file name="img_2392.jpg" crc="325765442" ref="accommodation">
+      <caption webpage="accommodation" alt=""/>
+    </file>
+    <file name="u560-4.png" crc="164436725" ref="about-us"/>
+    <file name="u565-4.png" crc="3956409434" ref="location"/>
+    <file name="u593-4.png" crc="195691960" ref="what-s-on"/>
+    <file name="u617-4.png" crc="4094798474" ref="enquiries"/>
+    <file name="u1265-4.png" crc="4115116514" ref="thank-you"/>
+    <file name="u1275_states.png" crc="3964229675" ref="thank-you"/>
+    <file name="u1275_states-r.png" crc="83030394" ref="thank-you"/>
+    <file name="u1144-4.png" crc="304602676" ref="cafe"/>
+    <file name="u1145_states.png" crc="56826341" ref="cafe"/>
+    <file name="u1145_states-r.png" crc="4072559887" ref="cafe"/>
+    <file name="u1031.png" crc="211731522" ref="cafe"/>
+    <file name="u1031-r.png" crc="188143288" ref="cafe"/>
+    <file name="u1031-a.png" crc="535959296" ref="cafe"/>
+    <file name="u1059.png" crc="78476505" ref="cafe"/>
+    <file name="u1059-r.png" crc="4072232656" ref="cafe"/>
+    <file name="u1059-a.png" crc="440124627" ref="cafe"/>
+    <file name="u1067.png" crc="4008133581" ref="cafe"/>
+    <file name="u1067-r.png" crc="192422880" ref="cafe"/>
+    <file name="u1067-a.png" crc="3980086447" ref="cafe"/>
+    <file name="u1039.png" crc="419554936" ref="cafe"/>
+    <file name="u1039-r.png" crc="275824610" ref="cafe"/>
+    <file name="u1039-a.png" crc="208008288" ref="cafe"/>
+    <file name="u2198.png" crc="3871648697" ref="cafe"/>
+    <file name="u2198-r.png" crc="4134648678" ref="cafe"/>
+    <file name="u2198-a.png" crc="184377546" ref="cafe"/>
+    <file name="u1046.png" crc="212312875" ref="cafe"/>
+    <file name="u1046-r.png" crc="4114749240" ref="cafe"/>
+    <file name="u1046-a.png" crc="3883033442" ref="cafe"/>
+    <file name="u1078.png" crc="3915377920" ref="cafe"/>
+    <file name="u1078-r.png" crc="4015947663" ref="cafe"/>
+    <file name="u1078-a.png" crc="4186176962" ref="cafe"/>
+    <file name="u2284-4.png" crc="4174615245" ref="cafe"/>
+    <file name="img_1251-crop-u2338.jpg" crc="4018505789" seo="true" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="img_1060.jpg" crc="4228384826" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="img_1038.jpg" crc="4124740402" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="banner-normal.png" crc="497791043" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="banner-hover.png" crc="422864924" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="banner-down.png" crc="422864924" ref="cafe">
+      <caption webpage="cafe" alt=""/>
+    </file>
+    <file name="u1111.png" crc="3926894304" ref="cafe"/>
+    <file name="u1111-r.png" crc="3874665022" ref="cafe"/>
+    <file name="u1111-a.png" crc="4195913114" ref="cafe"/>
+    <file name="u1125.png" crc="314368892" ref="cafe"/>
+    <file name="u1125-r.png" crc="3814144723" ref="cafe"/>
+    <file name="u1125-a.png" crc="345651334" ref="cafe"/>
+    <file name="u1091.png" crc="4126358369" ref="cafe"/>
+    <file name="u1091-r.png" crc="4104982313" ref="cafe"/>
+    <file name="u1091-a.png" crc="4191422471" ref="cafe"/>
+    <file name="u1139.png" crc="425768827" ref="cafe"/>
+    <file name="u1139-r.png" crc="3940248612" ref="cafe"/>
+    <file name="u1139-a.png" crc="3820293844" ref="cafe"/>
+    <file name="u2222.png" crc="260348681" ref="cafe"/>
+    <file name="u2222-r.png" crc="3935937115" ref="cafe"/>
+    <file name="u2222-a.png" crc="376666665" ref="cafe"/>
+    <file name="u1097.png" crc="46394761" ref="cafe"/>
+    <file name="u1097-r.png" crc="4005493205" ref="cafe"/>
+    <file name="u1097-a.png" crc="458359084" ref="cafe"/>
+    <file name="u1131.png" crc="3843102278" ref="cafe"/>
+    <file name="u1131-r.png" crc="4002054943" ref="cafe"/>
+    <file name="u1131-a.png" crc="4163427265" ref="cafe"/>
+  </folder>
+  <file name="index.html" crc="266075761" seo="true" mt="1528219915580" redirect="true"/>
+  <file name="accommodation.html" crc="3968970010" seo="true" mt="1551890899498" redirect="true"/>
+  <file name="about-us.html" crc="326715045" seo="true" mt="1528219915580" redirect="true"/>
+  <file name="location.html" crc="4041087156" seo="true" mt="1528219915580" redirect="true"/>
+  <file name="what-s-on.html" crc="3953097857" seo="true" mt="1528219915580" redirect="true"/>
+  <file name="enquiries.html" crc="4227748340" seo="true" mt="1528219915580" redirect="true"/>
+  <file name="thank-you.html" crc="381320083" seo="true" mt="1528219915580" redirect="true"/>
+  <file name="cafe.html" crc="194004919" seo="true" mt="1551899064866" redirect="true"/>
+</manifest>
